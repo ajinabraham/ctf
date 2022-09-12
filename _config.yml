@@ -1,0 +1,6 @@
+title: CTF
+description: CTF Hosting
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
